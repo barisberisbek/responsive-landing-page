@@ -1,5 +1,4 @@
 [<img src="ezgif-gif.gif" alt="Proje Tanıtım Videosu" width="100%"/>](WebTanitim.mp4)
-[<img src="ezgif-gif1.gif" alt="Proje Tanıtım Videosu" width="100%"/>](WebTanitim.mp4)
 [<img src="ezgif-gif2.gif" alt="Proje Tanıtım Videosu" width="100%"/>](WebTanitim.mp4)
 
 # CENG-3507 Web Geliştirme Vize Projesi
