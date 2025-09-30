@@ -13,7 +13,7 @@ Bu proje, "Creative Studio" adında kurgusal bir ajans için HTML5 ve CSS3 kulla
 
 ## 🚀 Çalıştırma
 
-1.  Depoyu klonlayın: `git clone <repository_url>`
+1.  Depoyu klonlayın: `git clone (https://github.com/barisberisbek/responsive-landing-page)`
 2.  `CreativeStudio.html` dosyasını tarayıcınızda açın.
 
 ---
